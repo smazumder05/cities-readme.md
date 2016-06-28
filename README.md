@@ -1,6 +1,6 @@
-# cities-readme.md
+# [New Cities](http://blog.ycombinator.com/new-cities)
 
-[New Cities](http://blog.ycombinator.com/new-cities)
+
 
 by Adora Cheung
 We want to study building new, better cities.
